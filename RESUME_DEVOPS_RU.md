@@ -1,7 +1,3 @@
-
-
-
-
 <img src="pic/av-circle-min.png" style="float: center;" />
 
 ### Лев Полетаев
