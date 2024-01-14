@@ -93,7 +93,7 @@
 
 ###### 03.2023 - 12.2023
 
-> [Сертификат](/sert/sert_poletaevlev_devops_yandex_ru.pdf)
+> [Сертификат](/resume/sert/sert_poletaevlev_devops_yandex_ru.pdf)
 
 
 
