@@ -4,7 +4,7 @@
 
 ## Системный администратор Linux  /  DevOps-инженер
 
-<a href="mailto:redolf86@ya.ru" style="text-decoration: none; color: 222222;">redolf86@ya.ru</a> | <a href="tel:+79502893779" style="text-decoration: none; color: 222222;">+7 950 289 37 79</a>
+**E-mail:** <a href="mailto:redolf86@ya.ru">redolf86@ya.ru  </a>**Telegram:** @poletaevlev **GMT:** +10
 
 ### Опыт работы
 
