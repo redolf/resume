@@ -2,7 +2,7 @@
 
 
 
-<img src="pic/av-circle-1.png" style="zoom:4%; float: center;" />
+<img src="pic/av-circle-min.png" style="float: center;" />
 
 ### Лев Полетаев
 
