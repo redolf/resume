@@ -98,7 +98,7 @@
 
 ###### 03.2023 - 12.2023
 
-> [Sertificate](../main/sert/sert_poletaevlev_devops_yandex_eng.pdf)
+> [Sertificate](../sert/sert_poletaevlev_devops_yandex_eng.pdf)
 
 #### **Modern Humanities Academy** / **Bachelor, Informatics and Computer Engineering, Automated Information Processing and Control Systems**
 
