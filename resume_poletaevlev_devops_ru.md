@@ -4,7 +4,7 @@
 
 ## DevOps-инженер
 
-**E-mail:** <a href="mailto:redolf86@ya.ru">redolf86@ya.ru </a>**Telegram:** <a href="https://t.me/poletaevlev"> @poletaevlev </a> **GMT:** +10
+**E-mail:** <a href="mailto:redolf86@ya.ru">redolf86@ya.ru </a>**Telegram:** <a href="https://t.me/poletaevlev">@poletaevlev </a> **GMT:** +10
 
 ### Опыт работы
 
